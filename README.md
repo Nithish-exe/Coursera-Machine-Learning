@@ -1,1 +1,1 @@
-Packt Publishing Data Science and Machine Learning with Python – Hands-On! Course
+Packt Course: Data Science and Machine Learning with Python – Hands-On!
