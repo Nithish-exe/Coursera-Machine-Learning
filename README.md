@@ -1,1 +1,1 @@
-Packt Course: Data Science and Machine Learning with Python – Hands-On!
+Coursera Course: Machine Learning Specialization by Andrew Ng
